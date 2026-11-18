@@ -1,0 +1,12 @@
+# build and run output
+out/
+node_modules/
+
+# local logs and environment
+*.log
+.env
+
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
